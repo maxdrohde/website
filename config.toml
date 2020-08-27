@@ -88,16 +88,6 @@ disqusShortname = "Max"
             url = "posts/"
 
             [[languages.en.menu.main]]
-            name = "Publications"
-            weight = 3
-            url = "publications/"
-
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
-
-            [[languages.en.menu.main]]
             name = "Resume"
             weight = 6
             url = "/files/rohde_resume_2020.pdf"
